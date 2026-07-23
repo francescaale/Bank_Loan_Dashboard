@@ -1,1 +1,1 @@
-#💰 Financial / Banking Analytics
+# Financial / Banking Analytics
