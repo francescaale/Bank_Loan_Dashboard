@@ -24,7 +24,7 @@ This project presents an interactive Power BI dashboard designed to analyze bank
 - DAX
 - Microsoft Excel
 
-## Dataset Used
+## Dataset
 
 Bank Analysis Dataset - https://drive.google.com/drive/folders/1wjjTBUg2SHXJQwVNjI5vHLk6DjI2W7y7
 
