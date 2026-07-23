@@ -24,6 +24,10 @@ This project presents an interactive Power BI dashboard designed to analyze bank
 - DAX
 - Microsoft Excel
 
+## Dataset Used
+
+Bank Analysis Dataset - https://drive.google.com/drive/folders/1wjjTBUg2SHXJQwVNjI5vHLk6DjI2W7y7
+
 ## Key Insights
 
 - Analysed total loan applications, funded amounts, and repayments.
