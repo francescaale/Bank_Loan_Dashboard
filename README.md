@@ -36,13 +36,3 @@ This project presents an interactive Power BI dashboard designed to analyze bank
 <img width="1277" height="717" alt="image" src="https://github.com/user-attachments/assets/6fb02c86-69db-4a88-8ad2-26acd421709e" />
 <img width="1282" height="717" alt="image" src="https://github.com/user-attachments/assets/2472b52b-0365-42c8-9ccc-3fd47b0c7574" />
 <img width="1277" height="717" alt="image" src="https://github.com/user-attachments/assets/d9c9a801-ecd4-49a4-a5ad-fca2a6181f62" />
-
-
-
-- `Bank Loan Data.xlsx` (or CSV)
-- `dashboard_preview.png`
-- `README.md`
-
-## Author
-
-**Francesca Donea**
